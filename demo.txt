@@ -1,2 +1,3 @@
 This is a demo for git.
 Nice to meet you!
+Now we insert a new line in the file 
